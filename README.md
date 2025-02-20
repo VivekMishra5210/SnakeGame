@@ -49,7 +49,7 @@ No external libraries are required; the game is built using Python's standard li
 - Introduce power-ups or obstacles.
 
 ## Author
-- Developed by [Your Name]
+- Developed by VivekMishra5210
 
 ## License
 This project is open-source and available for modification and use.
