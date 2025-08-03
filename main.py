@@ -10,7 +10,6 @@ screen.setup(width=600, height=600)
 screen.title("My Snake Game")
 screen.bgcolor("Black")
 screen.tracer(0)
-
 snake = Snake()
 food = Food()
 

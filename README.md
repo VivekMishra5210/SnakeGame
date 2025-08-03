@@ -1,5 +1,5 @@
 # Snake Game
-
+Hey There!
 ## Description
 This is a simple Snake Game built using Python's `turtle` module. The game features a snake that moves around the screen, eats food to grow in size, and keeps track of the score. The game ends when the snake collides with the screen boundaries.
 
@@ -7,7 +7,7 @@ This is a simple Snake Game built using Python's `turtle` module. The game featu
 - Classic snake movement (Up, Down, Left, Right)
 - Random food placement
 - Score tracking
-- Game over when the snake hits the wall
+- Game over when the snake touches the wall
 
 ## Installation
 Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
